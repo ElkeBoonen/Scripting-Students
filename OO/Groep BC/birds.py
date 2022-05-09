@@ -1,8 +1,29 @@
 import subprocess
 import datetime
 
-class Parrot:
+class Animal:
+    species = "animal"
+
+    def WhoIsThis(self):
+        print(self.species)
+
+# superclass
+class Mammel(Animal):
+    species = "mammel"
+
+# superclass
+class Bird(Animal):
     species = "bird"
+
+class Platypus(Bird, Mammel):
+    species = "platypus"
+
+class Fish(Animal):
+    species = "fish"
+
+# subclass
+class Parrot(Bird):
+    species = "parrot"
 
     def __calculateAge(self):
         return datetime.datetime.now().year - self.Birthdate.year
@@ -20,4 +41,8 @@ class Parrot:
 
     def Age(self):
         return self.__calculateAge()
+
+    def WhoIsThis(self):
+        super().WhoIsThis()
+        print("My name is",self.Name)
 
