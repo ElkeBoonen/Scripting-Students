@@ -5,6 +5,8 @@ from animals import Animal
 class Bird(Animal):
     species = "vogel"
 
+    def info(self):
+        print(self.species)
 
 class Parrot(Bird):
     species = "papegaai"

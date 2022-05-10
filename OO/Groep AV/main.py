@@ -1,4 +1,5 @@
 from birds import Bird, Parrot
+from mammals import Mammal
 import datetime as dt
 
 henkie = Parrot("Henkie", dt.datetime(2000,1,1), "geel")
