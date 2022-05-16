@@ -6,7 +6,8 @@ class Bird(Animal):
     species = "vogel"
 
     def info(self):
-        print(self.species)
+        print("dit is een", self.species)
+        super().info()
 
 class Parrot(Bird):
     species = "papegaai"

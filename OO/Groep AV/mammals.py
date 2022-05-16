@@ -4,4 +4,5 @@ class Mammal(Animal):
     species = "zoogdier"
 
     def info(self):
-        print(self.species)
+        print("dit is een", self.species)
+        super().info()
