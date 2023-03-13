@@ -1,0 +1,14 @@
+example@example.com;True
+example@sub.domain.com;True
+example-123@sub.domain.com;True
+example123@sub.domain.com;True
+example_123@sub.domain.com;True
+example@sub-domain.com;True
+example@sub.domain;False
+example@sub.;False
+example@sub..com;False
+example@sub.domain.c;False
+example@sub-.domain.com;False
+example@sub_.domain.com;False
+example@sub.domain-.com;False
+example@sub.domain_.com;False
