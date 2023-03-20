@@ -1,0 +1,59 @@
+{
+  "name": "Company Inc.",
+  "address": {
+    "street": "123 Main St",
+    "city": "Anytown",
+    "state": "CA",
+    "zip": "12345"
+  },
+  "employees": [
+    {
+      "name": "John Smith",
+      "age": 35,
+      "email": "john.smith@example.com",
+      "phone": "(123) 456-7890",
+      "address": {
+        "street": "123 Main St",
+        "city": "Anytown",
+        "state": "CA",
+        "zip": "12345"
+      },
+      "position": "Manager",
+      "salary": 100000,
+      "start_date": "2018-01-01",
+      "end_date": null
+    },
+    {
+      "name": "Jane Doe",
+      "age": 28,
+      "email": "jane.doe@example.com",
+      "phone": "(555) 555-5555",
+      "address": {
+        "street": "456 Oak Ave",
+        "city": "Somecity",
+        "state": "CA",
+        "zip": "67890"
+      },
+      "position": "Developer",
+      "salary": 75000,
+      "start_date": "2019-03-15",
+      "end_date": null
+    },
+    {
+      "name": "Bob Johnson",
+      "age": 42,
+      "email": "bob.johnson@example.com",
+      "phone": "(555) 123-4567",
+      "address": {
+        "street": "789 Elm St",
+        "city": "Othercity",
+        "state": "CA",
+        "zip": "54321"
+      },
+      "position": "Developer",
+      "salary": 80000,
+      "start_date": "2017-05-01",
+      "end_date": "2022-01-31"
+    }
+  ]
+}
