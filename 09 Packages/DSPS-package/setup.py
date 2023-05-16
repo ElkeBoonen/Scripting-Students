@@ -6,5 +6,5 @@ setup(name='DSPSPackage',
       author='Me, myself and I',
       license='MIT',
       packages=find_packages(include=['mypackage']),
-      install_requires=['playsound']
+      install_requires=['playsound', 'requests']
 )
