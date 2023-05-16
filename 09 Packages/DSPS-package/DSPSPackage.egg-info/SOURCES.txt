@@ -1,0 +1,11 @@
+README.md
+setup.py
+DSPSPackage.egg-info/PKG-INFO
+DSPSPackage.egg-info/SOURCES.txt
+DSPSPackage.egg-info/dependency_links.txt
+DSPSPackage.egg-info/requires.txt
+DSPSPackage.egg-info/top_level.txt
+mypackage/__init__.py
+mypackage/love.py
+mypackage/rainbow.py
+mypackage/unicorn.py
