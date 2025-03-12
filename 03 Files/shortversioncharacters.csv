@@ -1,0 +1,26 @@
+name,species,gender,house,dateOfBirth,yearOfBirth,ancestry,eyeColour,hairColour,wand,patronus,hogwartsStudent,hogwartsStaff,actor,alive,image
+Harry Potter,human,male,Gryffindor,31-07-1980,1980,half-blood,green,black,"{'wood': 'holly', 'core': 'phoenix feather', 'length': 11}",stag,True,False,Daniel Radcliffe,True,http://hp-api.herokuapp.com/images/harry.jpg
+Hermione Granger,human,female,Gryffindor,19-09-1979,1979,muggleborn,brown,brown,"{'wood': 'vine', 'core': 'dragon heartstring', 'length': ''}",otter,True,False,Emma Watson,True,http://hp-api.herokuapp.com/images/hermione.jpeg
+Ron Weasley,human,male,Gryffindor,01-03-1980,1980,pure-blood,blue,red,"{'wood': 'willow', 'core': 'unicorn tail-hair', 'length': 14}",Jack Russell terrier,True,False,Rupert Grint,True,http://hp-api.herokuapp.com/images/ron.jpg
+Draco Malfoy,human,male,Slytherin,05-06-1980,1980,pure-blood,grey,blonde,"{'wood': 'hawthorn', 'core': 'unicorn tail-hair', 'length': 10}",,True,False,Tom Felton,True,http://hp-api.herokuapp.com/images/draco.jpg
+Minerva McGonagall,human,female,Gryffindor,04-10-1925,1925,,,black,"{'wood': '', 'core': '', 'length': ''}",tabby cat,False,True,Dame Maggie Smith,True,http://hp-api.herokuapp.com/images/mcgonagall.jpg
+Cedric Diggory,human,male,Hufflepuff,,1977,,grey,brown,"{'wood': 'ash', 'core': 'unicorn hair', 'length': 12.25}",,True,False,Robert Pattinson,False,http://hp-api.herokuapp.com/images/cedric.png
+Cho Chang,human,female,Ravenclaw,,,,brown,black,"{'wood': '', 'core': '', 'length': ''}",swan,True,False,Katie Leung,True,http://hp-api.herokuapp.com/images/cho.jpg
+Severus Snape,human,male,Slytherin,09-01-1960,1960,half-blood,black,black,"{'wood': '', 'core': '', 'length': ''}",doe,False,True,Alan Rickman,False,http://hp-api.herokuapp.com/images/snape.jpg
+Rubeus Hagrid,half-giant,male,Gryffindor,06-12-1928,1928,half-blood,black,black,"{'wood': 'oak', 'core': '', 'length': 16}",,False,True,Robbie Coltrane,True,http://hp-api.herokuapp.com/images/hagrid.png
+Neville Longbottom,human,male,Gryffindor,30-07-1980,1980,pure-blood,,blonde,"{'wood': 'cherry', 'core': 'unicorn tail-hair', 'length': 13}",,True,False,Matthew Lewis,True,http://hp-api.herokuapp.com/images/neville.jpg
+Luna Lovegood,human,female,Ravenclaw,13-02-1981,1981,,grey,blonde,"{'wood': '', 'core': '', 'length': ''}",hare,True,False,Evanna Lynch,True,http://hp-api.herokuapp.com/images/luna.jpg
+Ginny Weasley,human,female,Gryffindor,11-08-1981,1981,pure-blood,brown,red,"{'wood': 'yew', 'core': '', 'length': ''}",horse,True,False,Bonnie Wright,True,http://hp-api.herokuapp.com/images/ginny.jpg
+Sirius Black,human,male,Gryffindor,03-11-1959,1959,pure-blood,grey,black,"{'wood': '', 'core': '', 'length': ''}",hare,False,False,Gary Oldman,False,http://hp-api.herokuapp.com/images/sirius.JPG
+Remus Lupin,werewolf,male,Gryffindor,10-03-1960,1960,half-blood,green,brown,"{'wood': 'cypress', 'core': 'unicorn tail-hair', 'length': 10.25}",wolf,False,True,David Thewlis,False,http://hp-api.herokuapp.com/images/lupin.jpg
+Arthur Weasley,human,male,Gryffindor,06-02-1950,1950,pure-blood,blue,red,"{'wood': '', 'core': '', 'length': ''}",weasel,False,False,Mark Williams,True,http://hp-api.herokuapp.com/images/arthur.jpg
+Bellatrix Lestrange,human,female,Slytherin,,1951,pure-blood,brown,black,"{'wood': 'walnut', 'core': 'dragon heartstring', 'length': 12.75}",,False,False,Helena Bonham Carter,False,http://hp-api.herokuapp.com/images/bellatrix.jpg
+Lord Voldemort,human,male,Slytherin,31-12-1926,1926,half-blood,red,bald,"{'wood': 'yew', 'core': 'phoenix feather', 'length': 13.5}",,False,False,Ralph Fiennes,False,http://hp-api.herokuapp.com/images/voldemort.jpg
+Horace Slughorn,human,male,Slytherin,,,pure-blood,green,blonde,"{'wood': 'cedar', 'core': 'dragon heartstring', 'length': 10.25}",,False,True,Jim Broadbent,True,http://hp-api.herokuapp.com/images/slughorn.JPG
+Kingsley Shacklebolt,human,male,,,,pure-blood,brown,brown,"{'wood': '', 'core': '', 'length': ''}",lynx,False,False,George Harris,True,http://hp-api.herokuapp.com/images/kingsley.jpg
+Dolores Umbridge,human,female,Slytherin,,,half-blood,brown,grey,"{'wood': 'birch', 'core': 'dragon heartstring', 'length': 8}",persian cat,False,True,Imelda Staunton,True,http://hp-api.herokuapp.com/images/umbridge.jpg
+Lucius Malfoy,human,male,Slytherin,,1954,pure-blood,grey,blonde,"{'wood': 'elm', 'core': 'dragon heartstring', 'length': 18}",,False,False,Jason Isaacs,True,http://hp-api.herokuapp.com/images/lucius.jpg
+Vincent Crabbe,human,male,Slytherin,,,pure-blood,black,black,"{'wood': '', 'core': '', 'length': ''}",,True,False,Jamie Waylett,False,http://hp-api.herokuapp.com/images/crabbe.jpg
+Gregory Goyle,human,male,Slytherin,,,pure-blood,,brown,"{'wood': '', 'core': '', 'length': ''}",,True,False,Josh Herdman,True,http://hp-api.herokuapp.com/images/goyle.jpg
+Mrs Norris,cat,female,,,,,yellow,brown,"{'wood': '', 'core': '', 'length': ''}",,False,True,"Maxime, Alanis and Tommy the cats",True,http://hp-api.herokuapp.com/images/norris.JPG
+Argus Filch,human,male,,,,squib,,grey,"{'wood': '', 'core': '', 'length': ''}",,False,True,David Bradley,True,http://hp-api.herokuapp.com/images/filch.jpg
