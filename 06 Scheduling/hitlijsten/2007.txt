@@ -1,0 +1,305 @@
+
+
+Nummer
+Artiest
+Titel
+
+
+1
+ Milow
+You Don't Know
+
+
+2
+ Kaiser Chiefs
+Ruby
+
+
+3
+ Tokio Hotel
+Monsoon
+
+
+4
+ Foo Fighters
+The Pretender
+
+
+5
+ Air Traffic
+Shooting Star
+
+
+6
+ Muse
+Map of the Problematique
+
+
+7
+ Mintzkov
+One Equals a Lot
+
+
+8
+ Fall Out Boy
+Thnks fr th Mmrs
+
+
+9
+ The Smashing Pumpkins
+Tarantula
+
+
+10
+ The White Stripes
+Icky Thump
+
+
+11
+ Damien Rice
+9 Crimes
+
+
+12
+ Zornik
+Black Hope Shot Down
+
+
+13
+ Goose
+Bring It On
+
+
+14
+ Muse
+Knights of Cydonia
+
+
+15
+ Flip Kowlier
+De Grootste Lul Van 't Stad
+
+
+16
+ Balthazar
+This Is a Flirt
+
+
+17
+ Zornik
+The Backseat
+
+
+18
+ Muse
+Invincible
+
+
+19
+ Editors
+An End Has a Start
+
+
+20
+ Absynthe Minded
+Plane Song
+
+
+21
+ Fixkes
+Kvraagetaan
+
+
+22
+ Regina Spektor
+Samson
+
+
+23
+ Queens of the Stone Age
+Make It wit Chu
+
+
+24
+ Editors
+Smokers Outside the Hospital Doors
+
+
+25
+ Queens of the Stone Age
+3's & 7's
+
+
+26
+ Sioen
+No Conspiracy At All
+
+
+27
+ Zornik
+Get Whatever You Want
+
+
+28
+ My Chemical Romance
+Teenagers
+
+
+29
+ Mika
+Grace Kelly
+
+
+30
+ My Chemical Romance
+Famous Last Words
+
+
+31
+ Kings of Leon
+On Call
+
+
+32
+ Billy Talent
+Fallen Leaves
+
+
+33
+ Kate Nash
+Foundations
+
+
+34
+ Bloc Party
+The Prayer
+
+
+35
+ Placebo
+Meds
+
+
+36
+ Mintzkov
+Ruby Red
+
+
+37
+ Silversun Pickups
+Lazy Eye
+
+
+38
+ The Chemical Brothers
+Do It Again
+
+
+39
+ Queens of the Stone Age
+Sick, Sick, Sick
+
+
+40
+ Mintzkov
+Return & Smile
+
+
+41
+ Kings of Leon
+Fans
+
+
+42
+ Air Traffic
+Charlotte
+
+
+43
+ The Killers
+Bones
+
+
+44
+ Fall Out Boy
+This Ain't a Scene, It's an Arms Race
+
+
+45
+ Gabriel Ríos
+Angelhead
+
+
+46
+ Arcade Fire
+No Cars Go
+
+
+47
+ Bloc Party
+Hunting For Witches
+
+
+48
+ The Fray
+How to Save a Life
+
+
+49
+ The Kooks
+Ooh La
+
+
+50
+ Flip Kowlier
+Donderdagnacht
+
+
+51
+ Tokio Hotel
+Übers Ende der Welt
+
+
+52
+ Linkin Park
+What I've Done
+
+
+53
+ Kaiser Chiefs
+The Angry Mob
+
+
+54
+ Gabriel Ríos
+Baby Lone Star
+
+
+55
+ The Van Jets
+Electric Soldiers
+
+
+56
+ Arid
+Words
+
+
+57
+ Plain White T's
+Hey There Delilah
+
+
+58
+ De Grote PVDV Ochtendshow
+Hey, Yves Leterme
+
+
+59
+ Arctic Monkeys
+Fluorescent Adolescent
+
+
+60
+ Arctic Monkeys
+Brianstorm

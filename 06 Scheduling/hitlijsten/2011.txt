@@ -1,0 +1,205 @@
+
+
+Nummer
+Artiest
+Titel
+
+
+1
+ Foo Fighters
+Walk
+
+
+2
+ Triggerfinger
+All this dancin around
+
+
+3
+ Foo Fighters
+Rope
+
+
+4
+ dEUS
+Constant now
+
+
+5
+ Triggerfinger
+Love lost in love
+
+
+6
+ School is Cool
+In want of something
+
+
+7
+ Triggerfinger
+Let it ride
+
+
+8
+ Intergalactic Lovers
+Delay
+
+
+9
+ Gotye
+Somebody that I used to know
+
+
+10
+ Das Pop
+The Game
+
+
+11
+ Arctic Monkeys
+Don't sit down cause I've moved your chair
+
+
+12
+ Intergalactic lovers
+She wolf
+
+
+13
+ School is Cool
+The world is gonna end tonight
+
+
+14
+ Selah Sue
+This World
+
+
+15
+ White Lies
+Bigger than us
+
+
+16
+ SX
+Black video
+
+
+17
+ Black Box Revelation
+Rattle my heart
+
+
+18
+ Kings of leon
+Pyro
+
+
+19
+  Arsenal
+Melvin
+
+
+20
+ Coldplay
+Paradise
+
+
+21
+ Marble Sounds
+Sky high
+
+
+22
+ Black Box Revelation
+My Perception
+
+
+23
+ Teddiedrum
+Odd lovers
+
+
+24
+ Channel Zero
+Hot summer
+
+
+25
+ Agnes Obel
+Riverside
+
+
+26
+ Customs
+Harlequins
+
+
+27
+ The Subs
+The face of the planet
+
+
+28
+ Elbow
+Lippy Kids (live @rock werchter)
+
+
+29
+  M83
+Midnight city
+
+
+30
+ Kasabian
+Days are forgotten
+
+
+31
+ Das Pop
+Skip the rope
+
+
+32
+ Adele
+Rolling in the deep
+
+
+33
+ Lana Del Rey
+Video games
+
+
+34
+ Arctic Monkeys
+The hellcat spangled sha la la
+
+
+35
+ Foo Fighters
+These days
+
+
+36
+ Goose
+Synrise
+
+
+37
+ Teddiedrum
+Miami
+
+
+38
+ The National
+Terrible love
+
+
+39
+ Triggerfinger
+It hasn't gone away
+
+
+40
+  R.E.M.
+Überlin

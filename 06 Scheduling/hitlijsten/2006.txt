@@ -1,0 +1,155 @@
+
+
+Nummer
+Artiest
+Titel
+
+
+1
+ A Brand
+Hammerhead
+
+
+2
+ The Kooks
+Naïve
+
+
+3
+ Muse
+Starlight
+
+
+4
+ Tool
+Vicarious
+
+
+5
+ Snow Patrol
+Chasing Cars
+
+
+6
+ dEUS
+Bad Timing
+
+
+7
+ Placebo
+Song to Say Goodbye
+
+
+8
+ Placebo
+Infra - Red
+
+
+9
+ Gorki
+Joeri
+
+
+10
+ The Killers
+When You Were Young
+
+
+11
+ The Kooks
+She Moves in Her Own Way
+
+
+12
+ Foo Fighters
+No Way Back
+
+
+13
+ Pearl Jam
+World Wide Suicide
+
+
+14
+ Panic! at the Disco
+I Write Sins Not Tragedies
+
+
+15
+ Arctic Monkeys
+When the Sun Goes Down
+
+
+16
+ Red Hot Chili Peppers
+Dani California
+
+
+17
+ Green Day
+Jesus of Suburbia
+
+
+18
+ Zornik
+Keep Me Down
+
+
+19
+ Mint
+Your Shopping Lists Are Poetry
+
+
+20
+ Janez Detd.
+Breaking the Waves
+
+
+21
+ My Chemical Romance
+I'm Not Okay (I Promise)
+
+
+22
+ Red Hot Chili Peppers
+Tell Me Baby
+
+
+23
+ Muse
+Supermassive Black Hole
+
+
+24
+ Mint
+The Magnetism of Pure Gold
+
+
+25
+ My Chemical Romance
+Welcome to the Black Parade
+
+
+26
+ Fall Out Boy
+Dance, Dance
+
+
+27
+ The Automatic
+Monster
+
+
+28
+ Tool
+The Pot
+
+
+29
+ Franz Ferdinand
+Walk Away
+
+
+30
+ Ozark Henry
+These Days
