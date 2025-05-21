@@ -1,0 +1,7 @@
+Metadata-Version: 2.1
+Name: mypackage
+Version: 0.1
+Summary: My first package!
+Author: Me, myself and I
+License: MIT
+License-File: LICENSE
