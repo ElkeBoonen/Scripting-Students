@@ -1,3 +1,0 @@
-# TWEEDE PACKAGE
-
-blabla
