@@ -1,0 +1,10 @@
+log = """
+2024-03-14 08:23:11 ERROR 192.168.1.1 - GET /login failed
+2024-03-14 08:24:05 INFO 192.168.1.2 - GET /home success
+2024-03-14 08:25:44 WARNING 10.0.0.5 - POST /upload slow response
+2024-03-14 09:01:12 ERROR 192.168.1.1 - GET /login failed
+2024-03-14 09:15:33 INFO 172.16.0.3 - GET /dashboard success
+2024-03-14 09:45:01 ERROR 10.0.0.5 - POST /api timeout
+2024-03-14 10:02:22 INFO 192.168.1.2 - GET /home success
+2024-03-14 10:11:58 ERROR 192.168.1.1 - GET /login failed
+"""
