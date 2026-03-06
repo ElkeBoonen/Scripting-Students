@@ -1,0 +1,103 @@
+episode_id,title,season,air_date,characters,episode,series
+1,Pilot,1,01-20-2008,"Walter White, Jesse Pinkman, Skyler White, Hank Schrader, Marie Schrader, Walter White Jr., Krazy-8, Bogdan Wolynetz",1,Breaking Bad
+2,Cat's in the Bag...,1,01-27-2008,"Walter White, Jesse Pinkman, Skyler White, Walter White Jr., Krazy-8",2,Breaking Bad
+3,...And the Bag's in the River,1,02-10-2008,"Walter White, Jesse Pinkman, Skyler White, Hank Schrader, Marie Schrader, Walter White Jr., Krazy-8, Gretchen Schwartz",3,Breaking Bad
+4,Cancer Man,1,02-17-2008,"Walter White, Jesse Pinkman, Skyler White, Hank Schrader, Marie Schrader, Walter White Jr., Ken Wins",4,Breaking Bad
+5,Gray Matter,1,02-24-2008,"Walter White, Jesse Pinkman, Skyler White, Hank Schrader, Marie Schrader, Walter White Jr., Elliott Schwarts, Gretchen Swartz, Badger",5,Breaking Bad
+6,Crazy Handful of Nothin,1,03-02-2008,"Walter White, Jesse Pinkman, Skyler White, Hank Schrader, Marie Schrader, Walter White Jr., Tuco Salamanca",6,Breaking Bad
+7,A No-Rough-Stuff-Type Deal, 1,03-09-2008,"Walter White, Jesse Pinkman, Skyler White, Hank Schrader, Marie Schrader, Walter White Jr., Tuco Salamanca",7,Breaking Bad
+8,Seven-Thirty-Seven,2,03-08-2009,"Walter White, Jesse Pinkman, Skyler White, Hank Schrader, Marie Schrader, Walter White Jr., Tuco Salamanca",1,Breaking Bad
+9,Grilled,2,03-15-2009,"Walter White, Jesse Pinkman, Skyler White, Hank Schrader, Marie Schrader, Walter White Jr., Tuco Salamanca, Hector Salamanca",2,Breaking Bad
+10,Bit by a Dead Bee,2,03-22-2009,"Walter White, Jesse Pinkman, Skyler White, Hank Schrader, Marie Schrader, Walter White Jr., Hector Salamanca",3,Breaking Bad
+11,Down,2,03-29-2009,"Walter White, Jesse Pinkman, Skyler White, Walter White Jr.",4,Breaking Bad
+12,Breakage,2,04-05-2009,"Walter White, Jesse Pinkman, Skyler White, Hank Schrader, Marie Schrader, Walter White Jr., Jane Margolis, Badger",5,Breaking Bad
+13,Peekaboo,2,04-12-2009,"Walter White, Jesse Pinkman, Skyler White, Marie Schrader, Walter White Jr., Gretchen Schwartz",6,Breaking Bad
+14,Negro y Azul,2,04-19-2009,"Walter White, Jesse Pinkman, Skyler White, Hank Schrader, Marie Schrader, Walter White Jr., Tortuga, Jane Margolis, Ted Beneke",7,Breaking Bad
+15,Better Call Saul,2,04-26-2009,"Walter White, Jesse Pinkman, Skyler White, Hank Schrader, Marie Schrader, Saul Goodman, Jane Margolis, Badger",8,Breaking Bad
+16,4 Days Out,2,05-03-2009,"Walter White, Jesse Pinkman, Skyler White, Hank Schrader, Marie Schrader, Walter White Jr., Saul Goodman, Jane Margolis",9,Breaking Bad
+17,Over,2,05-10-2009,"Walter White, Jesse Pinkman, Skyler White, Hank Schrader, Marie Schrader, Walter White Jr., Jane Margolis, Ted Beneke",10,Breaking Bad
+18,Mandala,2,05-17-2009,"Walter White, Jesse Pinkman, Skyler White, Saul Goodman, Gustavo Fring, Jane Margolis, Ted Beneke, Donald Margolis, Combo",11,Breaking Bad
+19,Phoenix,2,05-24-2009,"Walter White, Jesse Pinkman, Skyler White, Hank Schrader, Marie Schrader, Walter White Jr., Saul Goodman, Jane Margolis, Ted Beneke, Donald Margolis",12,Breaking Bad
+20,ABQ,2,05-31-2009,"Walter White, Jesse Pinkman, Skyler White, Hank Schrader, Marie Schrader, Walter White Jr., Mike Ehrmantraut, Gustavo Fring, Jane Margolis, Donald Margolis",13,Breaking Bad
+21,No Más,3,03-21-2010,"Walter White, Jesse Pinkman, Skyler White, Hank Schrader, Marie Schrader, Walter White Jr., Gustavo Fring, The cousins",1,Breaking Bad
+22,Caballo sin Nombre,3,03-28-2010,"Walter White, Jesse Pinkman, Skyler White, Hank Schrader, Marie Schrader, Walter White Jr., Gustavo Fring, Saul Goodman, Mike Ehrmantraut, Hector Salamanca",2,Breaking Bad
+23,IFT,3,04-04-2010,"Walter White, Jesse Pinkman, Skyler White, Hank Schrader, Walter White Jr., Gustavo Fring, Saul Goodman, Hector Salamanca, Ted Beneke",3,Breaking Bad
+24,Green Light,3,04-11-2010,"Walter White, Jesse Pinkman, Skyler White, Hank Schrader, Marie Schrader, Walter White Jr., Gustavo Fring, Saul Goodman, Mike Ehrmantraut, Ted Beneke",4,Breaking Bad
+25,Más,3,04-18-2010,"Walter White, Jesse Pinkman, Skyler White, Hank Schrader, Marie Schrader, Walter White Jr., Gustavo Fring, Saul Goodman, Ted Beneke",5,Breaking Bad
+26,Sunset,3,04-25-2010,"Walter White, Jesse Pinkman, Skyler White, Hank Schrader, Marie Schrader, Walter White Jr., Gustavo Fring, Saul Goodman, Gale Boetticher, The cousins",6,Breaking Bad
+27,One Minute,3,05-02-2010,"Walter White, Jesse Pinkman, Skyler White, Hank Schrader, Marie Schrader, Saul Goodman, Hector Salamanca, The cousins, Gale Boetticher",7,Breaking Bad
+28,I See You,3,05-09-2010,"Walter White, Jesse Pinkman, Skyler White, Hank Schrader, Marie Schrader, Walter White Jr., Gustavo Fring, Mike Ehrmantraut",8,Breaking Bad
+29,Kafkaesque,3,05-16-2010,"Walter White, Jesse Pinkman, Skyler White, Hank Schrader, Marie Schrader, Walter White Jr., Gustavo Fring, Saul Goodman, Ted Beneke",9,Breaking Bad
+30,Fly,3,05-23-2010,"Walter White, Jesse Pinkman, a fly",10,Breaking Bad
+31,Abiquiu,3,05-30-2010,"Walter White, Jesse Pinkman, Skyler White, Hank Schrader, Marie Schrader, Walter White Jr., Gustavo Fring, Saul Goodman, Jane Margolis",11,Breaking Bad
+32,Half measures,3,06-06-2010,"Walter White, Jesse Pinkman, Skyler White, Hank Schrader, Marie Schrader, Walter White Jr., Gustavo Fring, Saul Goodman, Mike Ehrmantraut, Andrea Cantillo, Victor",12,Breaking Bad
+33,Full Measure,3,06-13-2010,"Walter White, Jesse Pinkman, Skyler White, Walter White Jr., Gustavo Fring, Saul Goodman, Mike Ehrmantraut, Gale Boetticher, Victor",13,Breaking Bad
+34,Box Cutter,4,07-17-2011,"Walter White, Jesse Pinkman, Skyler White, Hank Schrader, Marie Schrader, Walter White Jr., Gustavo Fring, Saul Goodman, Mike Ehrmantraut, Gale Boetticher, Victor",1,Breaking Bad
+35,Thirty-Eight Snub,4,07-24-2011,"Walter White, Jesse Pinkman, Skyler White, Hank Schrader, Marie Schrader, Walter White Jr., Gustavo Fring, Saul Goodman, Mike Ehrmantraut, Andrea Cantillo",2,Breaking Bad
+36,Open House,4,07-31-2011,"Walter White, Jesse Pinkman, Skyler White, Hank Schrader, Marie Schrader, Saul Goodman, Bogdan Wolynetz",3,Breaking Bad
+37,Bullet Points,4,08-07-2011,"Walter White, Jesse Pinkman, Skyler White, Hank Schrader, Marie Schrader, White White Jr., Gustavo Fring, Saul Goodman, Mike Ehrmantraut, Gale Boetticher",4,Breaking Bad
+38,Shotgun,4,08-14-2011,"Walter White, Jesse Pinkman, Skyler White, Hank Schrader, Marie Schrader, Walter White Jr., Gustavo Fring, Mike Ehrmantraut",5,Breaking Bad
+39,Cornered,4,08-21-2011,"Walter White, Jesse Pinkman, Skyler White, Walter White Jr., Gustavo Fring, Mike Ehrmantraut, Bogdan Wolynetz",6,Breaking Bad
+40,Problem Dog,4,08-28-2011,"Walter White, Jesse Pinkman, Skyler White, Hank Schrader, Marie Schrader, Walter White Jr., Gustavo Fring, Saul Goodman, Mike Ehrmantraut, Gale Boetticher",7,Breaking Bad
+41,Hermanos,4,09-04-2011,"Walter White, Jesse Pinkman, Skyler White, Hank Schrader, Marie Schrader, Walter White Jr., Gustavo Fring, Saul Goodman, Mike Ehrmantraut, Hector Salamanca, Andrea Cantillo",8,Breaking Bad
+42,Bug,4,09-11-2011,"Walter White, Jesse Pinkman, Skyler White, Hank Schrader, Marie Schrader, Gustavo Fring, Mike Ehrmantraut, Ted Beneke",9,Breaking Bad
+43,Salud,4,09-18-2011,"Walter White, Jesse Pinkman, Skyler White, Walter White Jr., Gustavo Fring, Saul Goodman, Mike Ehrmantraut, Ted Beneke, Don Eladio",10,Breaking Bad
+44,Crawl Space,4,09-25-2011,"Walter White, Jesse Pinkman, Skyler White, Hank Schrader, Marie Schrader, Walter White Jr., Gustavo Fring, Saul Goodman, Mike Ehrmantraut, Hector Salamanca, Ted Beneke, Andrea Cantillo",11,Breaking Bad
+45,End Times,4,10-02-2011,"Walter White, Jesse Pinkman, Skyler White, Hank Schrader, Marie Schrader, Walter White Jr., Gustavo Fring, Saul Goodman, Andrea Cantillo",12,Breaking Bad
+46,Face Off,4,10-09-2011,"Walter White, Jesse Pinkman, Skyler White, Hank Schrader, Marie Schrader, Walter White Jr., Gustavo Fring, Saul Goodman",13,Breaking Bad
+47,Live Free of Die,5,07-15-2012,"Walter White, Jesse Pinkman, Skyler White, Hank Schrader, Walter White Jr., Saul Goodman, Mike Ehrmantraut, Ted Beneke",1,Breaking Bad
+48,Madrigal,5,07-22-2012,"Walter White, Jesse Pinkman, Skyler White, Hank Schrader, Walter White Jr., Saul Goodman, Mike Ehrmantraut, Lydia Rodarte-Quayle",2,Breaking Bad
+49,Hazard Pay,5,07-29-2012,"Walter White, Jesse Pinkman, Skyler White, Marie Schrader, Walter White Jr., Saul Goodman, Mike Ehrmantraut, Badger, Andrea Cantillo, Todd Alquist",3,Breaking Bad
+50,Fifty-One,5,08-05-2012,"Walter White, Jesse Pinkman, Skyler White, Hank Schrader, Marie Schrader, Walter White Jr., Mike Ehrmantraut, Lydia Rodarte-Quayle",4,Breaking Bad
+51,Dead Freight,5,08-12-2012,"Walter White, Jesse Pinkman, Skyler White, Hank Schrader, Marie Schrader, Walter White Jr., Mike Ehrmantraut, Lydia Rodarte-Quayle, Todd Alquist",5,Breaking Bad
+52,Buyout,5,08-19-2012,"Walter White, Jesse Pinkman, Skyler White, Hank Schrader, Marie Schrader, Saul Goodman, Mike Ehrmantraut, Todd Alquist",6,Breaking Bad
+53,Say My Name,5,08-26-2012,"Walter White, Jesse Pinkman, Skyler White, Hank Schrader, Saul Goodman, Mike Ehrmantraut, Todd Alquist",7,Breaking Bad
+54,Gliding Over All,5,09-02-2012,"Walter White, Jesse Pinkman, Skyler White, Hank Schrader, Marie Schrader, Walter White Jr., Saul Goodman, Mike Ehrmantraut, Lydia Rodarte-Quayle, Todd Alquist",8,Breaking Bad
+55,Blood Money,5,08-11-2013,"Walter White, Jesse Pinkman, Skyler White, Hank Schrader, Marie Schrader, Walter White Jr., Saul Goodman, Lydia Rodarte-Quayle, Badger, Skinny Pete",9,Breaking Bad
+56,Buried,5,08-18-2013,"Walter White, Jesse Pinkman, Skyler White, Hank Schrader, Marie Schrader, Saul Goodman, Lydia Rodarte-Quayle, Todd Alquist, Jack Welker",10,Breaking Bad
+57,Confessions,5,08-25-2013,"Walter White, Jesse Pinkman, Skyler White, Hank Schrader, Marie Schrader, Walter White Jr., Saul Goodman, Todd Alquist, Jack Welker",11,Breaking Bad
+58,Rabid Dog,5,09-01-2013,"Walter White, Jesse Pinkman, Skyler White, Hank Schrader, Marie Schrader, Walter White Jr., Saul Goodman",12,Breaking Bad
+59,To'hajilee,5,09-08-2013,"Walter White, Jesse Pinkman, Skyler White, Hank Schrader, Marie Schrader, Walter White Jr., Saul Goodman, Lydia Rodarte-Quayle, Todd Alquist, Andrea Cantillo, Jack Welker",13,Breaking Bad
+60,Ozymandias,5,09-15-2013,"Walter White, Jesse Pinkman, Skyler White, Hank Schrader, Marie Schrader, Walter White Jr., Todd Alquist, Jack Welker, Steve Gomez",14,Breaking Bad
+61,Granite State,5,09-22-2013,"Walter White, Jesse Pinkman, Skyler White, Marie Schrader, Saul Goodman, Lydia Rodarte-Quayle, Todd Alquist, Jack Welker, Andrea Cantillo, Eliott Schwartz, Gretchen Schwartz",15,Breaking Bad
+62,Felina,5,09-29-2013,"Walter White, Jesse Pinkman, Skyler White, Marie Schrader, Walter White Jr., Lydia Rodarte-Quayle, Todd Alquist, Jack Welker, Badger, Skinny Pete, Eliott Schwartz, Gretchen Schwartz",16,Breaking Bad
+63,Uno,1,02-08-2015,"Jimmy McGill, Mike Erhmantraut, Kim Wexler, Howard Hamlin, Chuck McGill, Nacho Varga",1,Better Call Saul
+64,Mijo,1,02-09-2015,"Jimmy McGill, Mike Erhmantraut, Kim Wexler, Howard Hamlin, Chuck McGill, Nacho Varga, Tuco Salamanca",2,Better Call Saul
+65,Nacho,1,02-16-2015,"Jimmy McGill, Mike Erhmantraut, Kim Wexler, Howard Hamlin, Chuck McGill, Nacho Varga",3,Better Call Saul
+66,Hero,1,02-23-2015,"Jimmy McGill, Mike Erhmantraut, Kim Wexler, Howard Hamlin, Chuck McGill, Nacho Varga",4,Better Call Saul
+67,Alpine Shepherd Boy,1,03-02-2015,"Jimmy McGill, Mike Erhmantraut, Kim Wexler, Howard Hamlin, Chuck McGill, Nacho Varga",5,Better Call Saul
+68,Five-O,1,03-09-2015,"Jimmy McGill, Mike Erhmantraut, Kim Wexler, Howard Hamlin, Chuck McGill, Nacho Varga",6,Better Call Saul
+69,Bingo,1,03-16-2015,"Jimmy McGill, Mike Erhmantraut, Kim Wexler, Howard Hamlin, Chuck McGill, Nacho Varga",7,Better Call Saul
+70,RICO,1,03-23-2015,"Jimmy McGill, Mike Erhmantraut, Kim Wexler, Howard Hamlin, Chuck McGill, Nacho Varga",8,Better Call Saul
+71,Pimento,1,03-30-2015,"Jimmy McGill, Mike Erhmantraut, Kim Wexler, Howard Hamlin, Chuck McGill, Nacho Varga",9,Better Call Saul
+72,Marco,1,04-06-2015,"Jimmy McGill, Mike Erhmantraut, Kim Wexler, Howard Hamlin, Chuck McGill, Nacho Varga",10,Better Call Saul
+73,Switch,2,02-15-2016,"Jimmy McGill, Mike Erhmantraut, Kim Wexler, Howard Hamlin, Chuck McGill, Nacho Varga",1,Better Call Saul
+74,Cobbler,2,02-22-2016,"Jimmy McGill, Mike Erhmantraut, Kim Wexler, Howard Hamlin, Chuck McGill, Nacho Varga",2,Better Call Saul
+75,Amarillo,2,02-29-2016,"Jimmy McGill, Mike Erhmantraut, Kim Wexler, Howard Hamlin, Chuck McGill, Nacho Varga",3,Better Call Saul
+76,Gloves Off,2,03-07-2016,"Jimmy McGill, Mike Erhmantraut, Kim Wexler, Howard Hamlin, Chuck McGill, Nacho Varga",4,Better Call Saul
+77,Rebecca,2,03-14-2016,"Jimmy McGill, Mike Erhmantraut, Kim Wexler, Howard Hamlin, Chuck McGill, Nacho Varga",5,Better Call Saul
+78,Bali Ha'i,2,03-21-2016,"Jimmy McGill, Mike Erhmantraut, Kim Wexler, Howard Hamlin, Chuck McGill, Nacho Varga",6,Better Call Saul
+79,Inflatable,2,03-28-2016,"Jimmy McGill, Mike Erhmantraut, Kim Wexler, Howard Hamlin, Chuck McGill, Nacho Varga",7,Better Call Saul
+80,Fifi,2,04-04-2016,"Jimmy McGill, Mike Erhmantraut, Kim Wexler, Howard Hamlin, Chuck McGill, Nacho Varga",8,Better Call Saul
+81,Nailed,2,04-11-2016,"Jimmy McGill, Mike Erhmantraut, Kim Wexler, Howard Hamlin, Chuck McGill, Nacho Varga",9,Better Call Saul
+82,Klick,2,04-18-2016,"Jimmy McGill, Mike Erhmantraut, Kim Wexler, Howard Hamlin, Chuck McGill, Nacho Varga",10,Better Call Saul
+83,Mabel,3,04-10-2017,"Jimmy McGill, Mike Erhmantraut, Kim Wexler, Howard Hamlin, Chuck McGill, Nacho Varga",1,Better Call Saul
+84,Witness,3,04-17-2017,"Jimmy McGill, Mike Erhmantraut, Kim Wexler, Howard Hamlin, Chuck McGill, Nacho Varga",2,Better Call Saul
+85,Sunk Costs,3,04-24-2017,"Jimmy McGill, Mike Erhmantraut, Kim Wexler, Howard Hamlin, Chuck McGill, Nacho Varga",3,Better Call Saul
+86,Sabrosito,3,05-01-2017,"Jimmy McGill, Mike Erhmantraut, Kim Wexler, Howard Hamlin, Chuck McGill, Nacho Varga",4,Better Call Saul
+87,Chicanery,3,05-08-2017,"Jimmy McGill, Mike Erhmantraut, Kim Wexler, Howard Hamlin, Chuck McGill, Nacho Varga",5,Better Call Saul
+88,Off Brand,3,05-15-2017,"Jimmy McGill, Mike Erhmantraut, Kim Wexler, Howard Hamlin, Chuck McGill, Nacho Varga",6,Better Call Saul
+89,Expenses,3,05-22-2017,"Jimmy McGill, Mike Erhmantraut, Kim Wexler, Howard Hamlin, Chuck McGill, Nacho Varga",7,Better Call Saul
+90,Slip,3,06-05-2017,"Jimmy McGill, Mike Erhmantraut, Kim Wexler, Howard Hamlin, Chuck McGill, Nacho Varga",8,Better Call Saul
+91,Fall,3,06-12-2017,"Jimmy McGill, Mike Erhmantraut, Kim Wexler, Howard Hamlin, Chuck McGill, Nacho Varga",9,Better Call Saul
+92,Lantern,3,06-19-2017,"Jimmy McGill, Mike Erhmantraut, Kim Wexler, Howard Hamlin, Chuck McGill, Nacho Varga",10,Better Call Saul
+93,Smoke,4,08-06-2018,"Jimmy McGill, Mike Erhmantraut, Kim Wexler, Howard Hamlin, Chuck McGill, Nacho Varga",1,Better Call Saul
+94,Breathe,4,08-13-2018,"Jimmy McGill, Mike Erhmantraut, Kim Wexler, Howard Hamlin, Chuck McGill, Nacho Varga",2,Better Call Saul
+95,Something Beautiful,4,08-20-2018,"Jimmy McGill, Mike Erhmantraut, Kim Wexler, Howard Hamlin, Chuck McGill, Nacho Varga",3,Better Call Saul
+96,Talk,4,08-27-2018,"Jimmy McGill, Mike Erhmantraut, Kim Wexler, Howard Hamlin, Chuck McGill, Nacho Varga",4,Better Call Saul
+97,Quite a Ride,4,09-03-2018,"Jimmy McGill, Mike Erhmantraut, Kim Wexler, Howard Hamlin, Chuck McGill, Nacho Varga",5,Better Call Saul
+98,Pinata,4,09-10-2018,"Jimmy McGill, Mike Erhmantraut, Kim Wexler, Howard Hamlin, Chuck McGill, Nacho Varga",6,Better Call Saul
+99,Something Stupid,4,09-17-2018,"Jimmy McGill, Mike Erhmantraut, Kim Wexler, Howard Hamlin, Chuck McGill, Nacho Varga",7,Better Call Saul
+100,Coushatta,4,09-24-2018,"Jimmy McGill, Mike Erhmantraut, Kim Wexler, Howard Hamlin, Chuck McGill, Nacho Varga",8,Better Call Saul
+101,Wiedersehen,4,10-01-2018,"Jimmy McGill, Mike Erhmantraut, Kim Wexler, Howard Hamlin, Chuck McGill, Nacho Varga",9,Better Call Saul
+102,Winner,4,10-08-2018,"Jimmy McGill, Mike Erhmantraut, Kim Wexler, Howard Hamlin, Chuck McGill, Nacho Varga",10,Better Call Saul
