@@ -5,7 +5,7 @@ import time
 
 start = time.time()
 
-url = "https://ccb.belgium.be/news.xml"
+url = "***"
 response = requests.get(url)
 
 with open("news.json","r") as file:

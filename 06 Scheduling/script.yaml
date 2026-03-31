@@ -6,7 +6,7 @@ on:
   workflow_dispatch:
 
 jobs:
-  scrape:
+  news:
     runs-on: ubuntu-latest
 
     steps:
@@ -21,13 +21,13 @@ jobs:
       - name: Packages installeren
         run: pip install requests beautifulsoup4 lxml
 
-      - name: Scraper uitvoeren
-        run: python vrt_scraper.py
+      - name: Nieuws ophalen
+        run: python script.py
 
       - name: Archief terugpushen naar GitHub
         run: |
           git config user.name "github-actions"
           git config user.email "actions@github.com"
-          git add vrt_nieuws.json
-          git commit -m "VRT update $(date +'%Y-%m-%d %H:%M UTC')" || echo "Niets nieuw"
+          git add news.json
+          git commit -m "update $(date +'%Y-%m-%d %H:%M UTC')" || echo "Niets nieuw"
           git push origin main --force
