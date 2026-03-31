@@ -1,0 +1,33 @@
+name: Nieuws Script
+
+on:
+  schedule:
+    - cron: '0 */4 * * *'
+  workflow_dispatch:
+
+jobs:
+  scrape:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Code ophalen
+        uses: actions/checkout@v4.2.2
+
+      - name: Python installeren
+        uses: actions/setup-python@v5.6.0
+        with:
+          python-version: '3.12'
+
+      - name: Packages installeren
+        run: pip install requests beautifulsoup4 lxml
+
+      - name: Scraper uitvoeren
+        run: python vrt_scraper.py
+
+      - name: Archief terugpushen naar GitHub
+        run: |
+          git config user.name "github-actions"
+          git config user.email "actions@github.com"
+          git add vrt_nieuws.json
+          git commit -m "VRT update $(date +'%Y-%m-%d %H:%M UTC')" || echo "Niets nieuw"
+          git push origin main --force
