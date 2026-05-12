@@ -1,0 +1,2 @@
+- Gebruik start-node-red.ps1 als opstart van node-red, gewoon uitvoeren met Powershell (RM, 'Run with Powershell), op die manier worden zowel je flows als je ui gewoon opgestart
+- Je kan flows.json importeren in Node-RED, op die manier krijg je de flows die we in de klas hebben gemaakt, let wel op het gebruik van python of py in de exec-node & geef het complete pad naar helloworld.py in!
