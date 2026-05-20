@@ -18,3 +18,4 @@ def reverse(word):
         a string
     """
     return word[::-1]
+
